@@ -1,13 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Balakrishnan
 
-Here are some ideas to get you started:
+Skills: __DevOps/ Powershell/ Azure__
 
-- 🔭 I’m currently working on ... Azure 
-- 🌱 I’m currently learning ... Kubenetes / Terraform
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on __Azure
 
+🌱 I’m currently learning __Terraform, Kubernetes__
+
+⚡ Fun fact: __Not Yet! :trollface:__
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sbalakrishnanbe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/balakrishnan-sanjeevi/)
+
+<!--
+![Github stats](https://github-readme-stats.vercel.app/api?username=sbalakrishnanbe&show_icons=true)![Profile views](https://gpvc.arturio.dev/sbalakrishnanbe)  
+--!>
