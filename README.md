@@ -8,7 +8,9 @@ Skills: __DevOps/ Powershell/ Azure__
 
 ⚡ Fun fact: __Not Yet! :trollface:__
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sbalakrishnanbe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/balakrishnan-sanjeevi/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sbalakrishnanbe/)](https://www.linkedin.com/in/sbalakrishnanbe/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sbalakrishnanbe)](https://twitter.com/sbalakrishnanbe)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sbalakrishnanbe)
 
 <table>
   <tbody>
